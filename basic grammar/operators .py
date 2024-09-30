@@ -9,3 +9,9 @@ print(a%b)
 
 # 몫
 print(a//b)
+
+# 거듭제곱
+print(a**b)
+
+# 제곱근 
+print(a**0.5)
